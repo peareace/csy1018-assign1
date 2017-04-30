@@ -1,9 +1,13 @@
 body{
   font-family: 'Comfortaa', cursive;
-	font-size:15;
+	font-size:15px;
 	background-color: #76D7C4;
 	color:#000000;
   text-align: center;
+}
+
+footer{
+  font-size: 8px;
 }
 nav{
 	height:40px;
