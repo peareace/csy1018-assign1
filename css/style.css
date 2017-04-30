@@ -1,7 +1,9 @@
 body{
-	font-size:5;
+  font-family: 'Comfortaa', cursive;
+	font-size:15;
 	background-color: #76D7C4;
 	color:#000000;
+  text-align: center;
 }
 nav{
 	height:40px;
@@ -35,4 +37,11 @@ nav a {
   width: 300px;
   margin-left: 500px;
 	margin-right: 500px;;
+}
+
+biography{
+  font-family: 'Comfortaa', cursive;
+  color:black;
+  margin-left: 350px;
+  margin-right: 350px;
 }
