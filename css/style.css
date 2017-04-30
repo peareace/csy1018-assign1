@@ -39,6 +39,11 @@ nav a {
 	margin-right: 500px;;
 }
 
+acknowledgements{
+  font-style: italic;
+
+}
+
 images{
   display: inline-grid;
   flex: auto;
