@@ -39,6 +39,11 @@ nav a {
 	margin-right: 500px;;
 }
 
+images{
+  display: inline-grid;
+  flex: auto;
+}
+
 biography{
   font-family: 'Comfortaa', cursive;
   color:black;
